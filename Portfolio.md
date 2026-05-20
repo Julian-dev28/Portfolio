@@ -183,9 +183,6 @@ Devcon builders challenge submission.
 ### [nextjs-boilerplate](https://github.com/Julian-dev28/nextjs-boilerplate)
 Personal Next.js starter.
 
-### [demos](https://github.com/Julian-dev28/demos) 
-Live demo workspace for SDK + protocol walkthroughs.
-
 ### [okx-dex-api-scripts](https://github.com/Julian-dev28/okx-dex-api-scripts)
 Operator scripts hitting the OKX DEX API endpoints. TypeScript.
 
