@@ -64,7 +64,7 @@ High-performance Python Solana DEX arbitrage scanner.
 ### [Kalshi-Prediction-Market](https://github.com/Julian-dev28/Kalshi-Prediction-Market)
 Anthropic-powered Kalshi market analyzer. TypeScript.
 
-### [OKX-OS-Trading-Bot](https://github.com/Julian-dev28/OKX-OS-Trading-Bot) — *(2 stars)*
+### [OKX-OS-Trading-Bot](https://github.com/Julian-dev28/OKX-OS-Trading-Bot) 
 Telegram trading bot template on X Layer using OKX OS. End-to-end:
 bot frontend, on-chain swap path, OKX OS DEX backend.
 
@@ -72,22 +72,22 @@ bot frontend, on-chain swap path, OKX OS DEX backend.
 
 ## DEX / swap integrations
 
-### [okx-os-evm-swap-app](https://github.com/Julian-dev28/okx-os-evm-swap-app) — *(5 stars)*
+### [okx-os-evm-swap-app](https://github.com/Julian-dev28/okx-os-evm-swap-app)
 EVM swap app demo wiring the OKX OS DEX API into a JavaScript frontend.
 
-### [okx-dex-project](https://github.com/Julian-dev28/okx-dex-project) — *(4 stars)*
+### [okx-dex-project](https://github.com/Julian-dev28/okx-dex-project)
 TypeScript reference implementation using the OKX DEX SDK.
 
 ### [dex-widget-demo](https://github.com/Julian-dev28/dex-widget-demo)
 Boilerplate integrating the OKX OS DEX widget into a TypeScript app.
 
-### [okx-dex-sdk](https://github.com/Julian-dev28/okx-dex-sdk) — *(2 stars)*
+### [okx-dex-sdk](https://github.com/Julian-dev28/okx-dex-sdk) 
 OKX DEX SDK in TypeScript.
 
 ### [okx_dex_tutorial](https://github.com/Julian-dev28/okx_dex_tutorial)
 Tutorial: build an EVM DEX application end-to-end. MDX docs + code.
 
-### [plugin-okx](https://github.com/Julian-dev28/plugin-okx) — *(3 stars)*
+### [plugin-okx](https://github.com/Julian-dev28/plugin-okx) 
 ElizaOS agent plugin that exposes the OKX DEX API to LLM agents.
 
 ### [WEB3-DEX-OPENSOURCE](https://github.com/Julian-dev28/WEB3-DEX-OPENSOURCE)
@@ -118,7 +118,7 @@ Yield-bearing SPL token vault on Solana (Anchor) — configurable APR, per-posit
 accrual, authority-funded reward reserves.
 **Stack:** Rust · Anchor · Solana
 
-### [soroban-quickstart-dapp](https://github.com/Julian-dev28/soroban-quickstart-dapp) — *(2 stars)*
+### [soroban-quickstart-dapp](https://github.com/Julian-dev28/soroban-quickstart-dapp)
 Stellar Soroban dApp with TypeScript frontend.
 
 ### [soroban-multisig-dapp](https://github.com/Julian-dev28/soroban-multisig-dapp)
@@ -130,7 +130,7 @@ Vault contract on Soroban (Rust).
 ### [soroban-safe-counter](https://github.com/Julian-dev28/soroban-safe-counter)
 Authorization-gated counter on Soroban.
 
-### [consensus-hackathon-c2defi](https://github.com/Julian-dev28/consensus-hackathon-c2defi) — *(7 stars)*
+### [consensus-hackathon-c2defi](https://github.com/Julian-dev28/consensus-hackathon-c2defi) 
 Rust DeFi hackathon project — repo's top-starred entry.
 
 ### [solana-agent-project](https://github.com/Julian-dev28/solana-agent-project)
@@ -177,13 +177,13 @@ Solidity take-home (M^0 stablecoin protocol).
 ### [okx-os-solana-accelerate-hackathon](https://github.com/Julian-dev28/okx-solana-accelerate-hackathon)
 OKX Solana Accelerate hackathon — DeFi templates for OKX DEX API on Solana.
 
-### [devcon-builders-challenge](https://github.com/Julian-dev28/devcon-builders-challenge) — *(2 stars)*
+### [devcon-builders-challenge](https://github.com/Julian-dev28/devcon-builders-challenge) 
 Devcon builders challenge submission.
 
 ### [nextjs-boilerplate](https://github.com/Julian-dev28/nextjs-boilerplate)
 Personal Next.js starter.
 
-### [demos](https://github.com/Julian-dev28/demos) — *(1 star)*
+### [demos](https://github.com/Julian-dev28/demos) 
 Live demo workspace for SDK + protocol walkthroughs.
 
 ### [okx-dex-api-scripts](https://github.com/Julian-dev28/okx-dex-api-scripts)
