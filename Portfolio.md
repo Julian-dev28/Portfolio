@@ -151,24 +151,8 @@ multi-agent + dspy + OpenRouter.
 ### [HyperMetric](https://github.com/Julian-dev28/HyperMetric)
 Decentralized model comparison platform. Python.
 
-### [decentralized-computing-demos](https://github.com/Julian-dev28/decentralized-computing-demos)
-Decentralized compute examples.
-
 ### [allora-app](https://github.com/Julian-dev28/allora-app)
 TypeScript app surfacing Allora network inferences via the SDK.
-
----
-
-## Payments / merchant tooling
-
-### [Beans-merchant-sdk-react-boilerplate](https://github.com/Julian-dev28/Beans-merchant-sdk-react-boilerplate)
-Boilerplate for the Beans merchant SDK in React.
-
-### [ncc-beerhole-contracts](https://github.com/Julian-dev28/ncc-beerhole-contracts)
-Proof-of-concept Solidity contracts for crypto payments from buyer to bar.
-
-### [m0-takehome](https://github.com/Julian-dev28/m0-takehome)
-Solidity take-home (M^0 stablecoin protocol).
 
 ---
 
