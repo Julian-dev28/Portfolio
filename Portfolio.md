@@ -192,9 +192,6 @@ Operator scripts hitting the OKX DEX API endpoints. TypeScript.
 ### [okx-rta-demo](https://github.com/Julian-dev28/okx-rta-demo)
 RTA API demo on X Layer testnet.
 
-### [bam-devrel-assignment](https://github.com/Julian-dev28/bam-devrel-assignment)
-DevRel take-home.
-
 ### [ordinals-react-app-ts](https://github.com/Julian-dev28/ordinals-react-app-ts)
 Ordinals (Bitcoin) React app, TypeScript.
 
