@@ -10,20 +10,6 @@ and Next.js / React frontends — with on-chain integration end-to-end. Curated 
 
 ## Flagship
 
-### [flowpay](https://github.com/Julian-dev28/flowpay) — *EIP-712 signed crypto payments on Base*
-Gasless payer-signed payment intents, settled by a relayer through a non-custodial
-router. PaymentRouter does `SafeERC20.safeTransferFrom(payer → merchant)` after
-verifying the EIP-712 signature, with per-(payer, nonce) replay protection and a
-Pausable kill-switch. Backed by a Fastify orchestrator → BullMQ queue → tx-submitter
-worker, a viem-based indexer with its own HTTP API, and a Next.js + wagmi +
-RainbowKit frontend with a live allowance/sign/settle/index lifecycle stepper.
-End-to-end runs locally on anvil with `pnpm stack`.
-**Stack:** Solidity 0.8.26 · OpenZeppelin v5 · Foundry · Fastify 5 · BullMQ 5 ·
-viem 2 · Next.js 15 · wagmi 2 · RainbowKit 2 · GitHub Actions CI
-**Highlights:** 10/10 forge tests, 100% PaymentRouter coverage · permissionless
-faucet endpoint · architecture + sequence Mermaid diagrams · production
-observability hooks (Prometheus, structured pino logging, requestId tracing)
-
 ### [hermes-trader](https://github.com/Julian-dev28/hermes-trader) — *Autonomous multi-market trading agent on Hyperliquid*
 Live trading agent that scans **230+ Hyperliquid perps** (crypto + equity + commodity)
 in parallel, fires statistical triggers (price spikes, volume spikes, breakouts,
@@ -40,6 +26,20 @@ execution. No human in the loop.
 **Stack:** TypeScript · Next.js 16 · Hyperliquid REST + WSS · OpenRouter (multi-model
 LLM routing) · MCP · EIP-712 order signing · Hermes Agent (NousResearch) runtime
 **Topics:** autonomous-trading, hyperliquid, perps, multi-market, llm, ta, mcp, eip712
+
+### [flowpay](https://github.com/Julian-dev28/flowpay) — *EIP-712 signed crypto payments on Base*
+Gasless payer-signed payment intents, settled by a relayer through a non-custodial
+router. PaymentRouter does `SafeERC20.safeTransferFrom(payer → merchant)` after
+verifying the EIP-712 signature, with per-(payer, nonce) replay protection and a
+Pausable kill-switch. Backed by a Fastify orchestrator → BullMQ queue → tx-submitter
+worker, a viem-based indexer with its own HTTP API, and a Next.js + wagmi +
+RainbowKit frontend with a live allowance/sign/settle/index lifecycle stepper.
+End-to-end runs locally on anvil with `pnpm stack`.
+**Stack:** Solidity 0.8.26 · OpenZeppelin v5 · Foundry · Fastify 5 · BullMQ 5 ·
+viem 2 · Next.js 15 · wagmi 2 · RainbowKit 2 · GitHub Actions CI
+**Highlights:** 10/10 forge tests, 100% PaymentRouter coverage · permissionless
+faucet endpoint · architecture + sequence Mermaid diagrams · production
+observability hooks (Prometheus, structured pino logging, requestId tracing)
 
 ### [sentient-market-reader](https://github.com/Julian-dev28/sentient-market-reader) — *Live Kalshi algo trader, multi-agent AI*
 TypeScript/Next.js prediction-market trading agent powered by a multi-agent
