@@ -64,7 +64,7 @@ High-performance Python Solana DEX arbitrage scanner.
 ### [Kalshi-Prediction-Market](https://github.com/Julian-dev28/Kalshi-Prediction-Market)
 Anthropic-powered Kalshi market analyzer. TypeScript.
 
-### [OKX-OS-Trading-Bot](https://github.com/Julian-dev28/OKX-OS-Trading-Bot) 
+### [OKX-OS-Trading-Bot](https://github.com/Julian-dev28/OKX-OS-Trading-Bot)
 Telegram trading bot template on X Layer using OKX OS. End-to-end:
 bot frontend, on-chain swap path, OKX OS DEX backend.
 
@@ -81,13 +81,13 @@ TypeScript reference implementation using the OKX DEX SDK.
 ### [dex-widget-demo](https://github.com/Julian-dev28/dex-widget-demo)
 Boilerplate integrating the OKX OS DEX widget into a TypeScript app.
 
-### [okx-dex-sdk](https://github.com/Julian-dev28/okx-dex-sdk) 
+### [okx-dex-sdk](https://github.com/Julian-dev28/okx-dex-sdk)
 OKX DEX SDK in TypeScript.
 
 ### [okx_dex_tutorial](https://github.com/Julian-dev28/okx_dex_tutorial)
 Tutorial: build an EVM DEX application end-to-end. MDX docs + code.
 
-### [plugin-okx](https://github.com/Julian-dev28/plugin-okx) 
+### [plugin-okx](https://github.com/Julian-dev28/plugin-okx)
 ElizaOS agent plugin that exposes the OKX DEX API to LLM agents.
 
 ### [WEB3-DEX-OPENSOURCE](https://github.com/Julian-dev28/WEB3-DEX-OPENSOURCE)
@@ -130,7 +130,7 @@ Vault contract on Soroban (Rust).
 ### [soroban-safe-counter](https://github.com/Julian-dev28/soroban-safe-counter)
 Authorization-gated counter on Soroban.
 
-### [consensus-hackathon-c2defi](https://github.com/Julian-dev28/consensus-hackathon-c2defi) 
+### [consensus-hackathon-c2defi](https://github.com/Julian-dev28/consensus-hackathon-c2defi)
 Rust DeFi hackathon project — repo's top-starred entry.
 
 ### [solana-agent-project](https://github.com/Julian-dev28/solana-agent-project)
@@ -161,7 +161,7 @@ TypeScript app surfacing Allora network inferences via the SDK.
 ### [okx-os-solana-accelerate-hackathon](https://github.com/Julian-dev28/okx-solana-accelerate-hackathon)
 OKX Solana Accelerate hackathon — DeFi templates for OKX DEX API on Solana.
 
-### [devcon-builders-challenge](https://github.com/Julian-dev28/devcon-builders-challenge) 
+### [devcon-builders-challenge](https://github.com/Julian-dev28/devcon-builders-challenge)
 Devcon builders challenge submission.
 
 ### [nextjs-boilerplate](https://github.com/Julian-dev28/nextjs-boilerplate)
